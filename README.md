@@ -1,7 +1,7 @@
 # ちーず(・8・)けーき/MineCake1.4.7(MineCake147E)
 
-![GitHub followers](https://img.shields.io/github/followers/MineCake147E?label=Follow%20MineCake147E%20on%20GitHub&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/MineCake16130?label=Follow%20%40MineCake16130%20on%20Twitter&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/MineCake147E?label=Follow%20MineCake147E%20on%20GitHub&style=flat-square)](https://github.com/MineCake147E)
+[![Misskey](https://img.shields.io/badge/Follow%20minecake1095%20on%20Misskey.io-%20-green)](https://misskey.io/@minecake1095)
 
 
 Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
