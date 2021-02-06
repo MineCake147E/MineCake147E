@@ -19,6 +19,7 @@ Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
   - Pointer manipulation
   - Optimization
     - Optimization of [Cooley–Tukey FFT algorithm](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm) implementation
+    - Optimization of BiQuad filter using Hardware Intrinsics 
 - Java
   - Modding on Minecraft
 - Lua
