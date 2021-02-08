@@ -10,7 +10,7 @@ Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
 
 - C#
   - Audio Signal Processing
-    - Development of [MonoAudio](https://github.com/MineCake147E/MonoAudio)
+    - Development of [Shamisen](https://github.com/MineCake147E/Shamisen)
   - Image Processing
   - Game Development
     - Using MonoGame
@@ -31,7 +31,7 @@ So far, nothing special.
 
 ## Common Project
 
-- [MonoAudio](https://github.com/MineCake147E/MonoAudio) - A library for audio input/output and signal processing
+- [Shamisen](https://github.com/MineCake147E/Shamisen) - A library for audio input/output and signal processing
 - [CSCodec](https://github.com/MineCake147E/CSCodec) - A library for signal processing such as Fast Fourier Transform
 - [DivideSharp](https://github.com/MineCake147E/DivideSharp) - Library to optimize integer division at runtime
 - [WeedMeals](https://github.com/MineCake147E/WeedMeals) - Minecraft mod to add bone dust that won't grow flowers
