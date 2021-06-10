@@ -11,11 +11,17 @@ Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
 - C#
   - Audio Signal Processing
     - Development of [Shamisen](https://github.com/MineCake147E/Shamisen)
+      - Extremely fast Catmull-Rom Resampler
+      - Fast BiQuad Filter
+      - WAVE Decoder
+      - WAVE Encoder
+      - FLAC Decoder
   - Image Processing
   - Game Development
     - Using MonoGame
     - Using Stride
-  - Usage of [Unsafe](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices.unsafe?view=net-5.0) and [MemoryMarshal](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.memorymarshal?view=net-5.0)
+  - Low-Level C# via [Unsafe](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices.unsafe?view=net-5.0) and [MemoryMarshal](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.memorymarshal?view=net-5.0)
+  - Hardware Intrinsics
   - Pointer manipulation
   - Optimization
     - Optimization of [Cooley–Tukey FFT algorithm](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm) implementation
