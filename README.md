@@ -15,7 +15,7 @@ Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
       - Fast BiQuad Filter
       - WAVE Decoder
       - WAVE Encoder
-      - FLAC Decoder
+      - **FLAC Decoder**
   - Image Processing
   - Game Development
     - Using MonoGame
