@@ -6,7 +6,7 @@
 
 Hello! I'm MineCake1.4.7, aka "ちーず(・8・)けーき" in Japan.
 
-## Main programming language and field of expertise
+## Main programming language and field of interest
 
 - C#
   - Audio Signal Processing
